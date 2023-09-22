@@ -8,13 +8,13 @@ Examples taken from: https://graphql.org/graphql-js/
 
 ### 2. Basic Types
 
-### 2 a)
+### 2 a) Calling quote of the day resolver
 ![model](https://raw.githubusercontent.com/mmackenzie-syd/express-graphql/main/postman-image/2a.png)
 
-### 2 b)
+### 2 b) Calling random resolver
 ![model](https://raw.githubusercontent.com/mmackenzie-syd/express-graphql/main/postman-image/2b.png)
 
-### 2 c)
+### 2 c) Calling roll dice resolver
 ![model](https://raw.githubusercontent.com/mmackenzie-syd/express-graphql/main/postman-image/2c.png)
 
 
