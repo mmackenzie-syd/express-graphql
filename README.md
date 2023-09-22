@@ -20,10 +20,10 @@ Examples taken from: https://graphql.org/graphql-js/
 
 ### 3. Passing Arguments
 
-### 3 a) Direct
+### 3 a) Passing arguments directly 
 ![model](https://raw.githubusercontent.com/mmackenzie-syd/express-graphql/main/postman-image/3a.png)
 
-### 3 b) Using variables
+### 3 b) Passing arguments using variables
 ![model](https://raw.githubusercontent.com/mmackenzie-syd/express-graphql/main/postman-image/3b.png)
 
 ### 4. Object Types
