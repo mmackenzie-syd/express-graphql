@@ -32,12 +32,12 @@ Examples taken from: https://graphql.org/graphql-js/
 
 ### 5. Mutations
 
-### 5 a)
+### 5 a) Create a message mutation
 ![model](https://raw.githubusercontent.com/mmackenzie-syd/express-graphql/main/postman-image/5a.png)
 
-### 5 b)
+### 5 b) Get a message by ID query
 ![model](https://raw.githubusercontent.com/mmackenzie-syd/express-graphql/main/postman-image/5b.png)
 
-### 5 c)
+### 5 c) Get all message query
 ![model](https://raw.githubusercontent.com/mmackenzie-syd/express-graphql/main/postman-image/5c.png)
 
