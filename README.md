@@ -2,6 +2,8 @@
 
 Examples taken from: https://graphql.org/graphql-js/
 
+Images below are taken from Postman
+
 ### 1. Getting started
 
 ![model](https://raw.githubusercontent.com/mmackenzie-syd/express-graphql/main/postman-image/1.png)
